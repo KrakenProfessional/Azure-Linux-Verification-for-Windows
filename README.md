@@ -15,5 +15,5 @@ This was made for Azure Linux 3.0 x86_64, found at https://github.com/microsoft/
 The GPG installer utilizes: https://files.gpg4win.org/gpg4win-latest.exe
 
 Last updated: 10/27/2025
-By: KrakenProfessional 
+By KrakenProfessional 
 https://github.com/KrakenProfessional/Azure-Linux-Verification-for-Windows/edit/main
