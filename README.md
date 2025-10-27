@@ -4,6 +4,7 @@ For if you want to verify the Azure Linux ISO before using it, on windows!
 additional Instructions:
 
 Run the AzureLinuxInstaller.bat, and it should handle things from there!
+(REQUIRES BOTH PS1 FILES IN THE SAME FOLDER)
 
 It will use the  users download folder  and it will create a folder called "AzureLinux"
 
